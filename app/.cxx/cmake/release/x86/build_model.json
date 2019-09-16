@@ -1,0 +1,72 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "D:\\KULIAH\\Semester 5\\PPBLanjut\\Projek\\AplikasiMakanan",
+      "sdkFolder": "C:\\Users\\ACER\\AppData\\Local\\Android\\Sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "D:\\KULIAH\\Semester 5\\PPBLanjut\\Projek\\AplikasiMakanan\\app\\build\\intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "D:\\KULIAH\\Semester 5\\PPBLanjut\\Projek\\AplikasiMakanan\\app",
+      "makeFile": "D:\\KULIAH\\Semester 5\\PPBLanjut\\Projek\\AplikasiMakanan\\app\\CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "D:\\KULIAH\\Semester 5\\PPBLanjut\\Projek\\AplikasiMakanan\\.cxx",
+      "cxxFolder": "D:\\KULIAH\\Semester 5\\PPBLanjut\\Projek\\AplikasiMakanan\\app\\.cxx",
+      "ndkFolder": "C:\\Users\\ACER\\AppData\\Local\\Android\\Sdk\\ndk\\20.0.5594570",
+      "ndkVersion": "20.0.5594570",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [
+      ""
+    ],
+    "variantName": "release",
+    "soFolder": "D:\\KULIAH\\Semester 5\\PPBLanjut\\Projek\\AplikasiMakanan\\app\\build\\intermediates\\cmake\\release\\lib",
+    "objFolder": "D:\\KULIAH\\Semester 5\\PPBLanjut\\Projek\\AplikasiMakanan\\app\\build\\intermediates\\cmake\\release\\obj",
+    "jsonFolder": "D:\\KULIAH\\Semester 5\\PPBLanjut\\Projek\\AplikasiMakanan\\app\\.cxx\\cmake\\release",
+    "gradleBuildOutputFolder": "D:\\KULIAH\\Semester 5\\PPBLanjut\\Projek\\AplikasiMakanan\\app\\.cxx\\cxx\\release",
+    "isDebuggableEnabled": false,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "X86",
+  "abiPlatformVersion": 24,
+  "cxxBuildFolder": "D:\\KULIAH\\Semester 5\\PPBLanjut\\Projek\\AplikasiMakanan\\app\\.cxx\\cmake\\release\\x86",
+  "jsonFile": "D:\\KULIAH\\Semester 5\\PPBLanjut\\Projek\\AplikasiMakanan\\app\\.cxx\\cmake\\release\\x86\\android_gradle_build.json",
+  "gradleBuildOutputFolder": "D:\\KULIAH\\Semester 5\\PPBLanjut\\Projek\\AplikasiMakanan\\app\\.cxx\\cxx\\release\\x86",
+  "objFolder": "D:\\KULIAH\\Semester 5\\PPBLanjut\\Projek\\AplikasiMakanan\\app\\build\\intermediates\\cmake\\release\\obj\\x86",
+  "buildCommandFile": "D:\\KULIAH\\Semester 5\\PPBLanjut\\Projek\\AplikasiMakanan\\app\\.cxx\\cmake\\release\\x86\\build_command.txt",
+  "buildOutputFile": "D:\\KULIAH\\Semester 5\\PPBLanjut\\Projek\\AplikasiMakanan\\app\\.cxx\\cmake\\release\\x86\\build_output.txt",
+  "modelOutputFile": "D:\\KULIAH\\Semester 5\\PPBLanjut\\Projek\\AplikasiMakanan\\app\\.cxx\\cmake\\release\\x86\\build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "D:\\KULIAH\\Semester 5\\PPBLanjut\\Projek\\AplikasiMakanan\\app\\.cxx\\cxx\\release\\x86\\CMakeLists.txt",
+    "toolchainWrapperFile": "D:\\KULIAH\\Semester 5\\PPBLanjut\\Projek\\AplikasiMakanan\\app\\.cxx\\cxx\\release\\x86\\android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "D:\\KULIAH\\Semester 5\\PPBLanjut\\Projek\\AplikasiMakanan\\app\\.cxx\\cxx\\release\\x86\\build_generation_state.json",
+    "cacheKeyFile": "D:\\KULIAH\\Semester 5\\PPBLanjut\\Projek\\AplikasiMakanan\\app\\.cxx\\cxx\\release\\x86\\compiler_cache_key.json",
+    "compilerCacheUseFile": "D:\\KULIAH\\Semester 5\\PPBLanjut\\Projek\\AplikasiMakanan\\app\\.cxx\\cxx\\release\\x86\\compiler_cache_use.json",
+    "compilerCacheWriteFile": "D:\\KULIAH\\Semester 5\\PPBLanjut\\Projek\\AplikasiMakanan\\app\\.cxx\\cxx\\release\\x86\\compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "D:\\KULIAH\\Semester 5\\PPBLanjut\\Projek\\AplikasiMakanan\\app\\.cxx\\cxx\\release\\x86\\compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "D:\\KULIAH\\Semester 5\\PPBLanjut\\Projek\\AplikasiMakanan\\app\\.cxx\\cmake\\release\\x86\\json_generation_record.json",
+  "compileCommandsJsonFile": "D:\\KULIAH\\Semester 5\\PPBLanjut\\Projek\\AplikasiMakanan\\app\\.cxx\\cmake\\release\\x86\\compile_commands.json"
+}

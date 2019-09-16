@@ -1,0 +1,41 @@
+
+{
+	"buildFiles" : 
+	[
+		"D:/KULIAH/Semester 5/PPBLanjut/Projek/AplikasiMakanan/app/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"C:\\Users\\ACER\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build \"D:\\KULIAH\\Semester 5\\PPBLanjut\\Projek\\AplikasiMakanan\\app\\.cxx\\cmake\\debug\\x86_64\" --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"native-lib-Debug-x86_64" : 
+		{
+			"abi" : "x86_64",
+			"artifactName" : "native-lib",
+			"buildCommand" : "C:\\Users\\ACER\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build \"D:\\KULIAH\\Semester 5\\PPBLanjut\\Projek\\AplikasiMakanan\\app\\.cxx\\cmake\\debug\\x86_64\" --target native-lib",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=x86_64-none-linux-android24 --gcc-toolchain=C:/Users/ACER/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/ACER/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "D:/KULIAH/Semester 5/PPBLanjut/Projek/AplikasiMakanan/app/src/main/cpp/native-lib.cpp",
+					"workingDirectory" : "D:/KULIAH/Semester 5/PPBLanjut/Projek/AplikasiMakanan/app/.cxx/cmake/debug/x86_64"
+				}
+			],
+			"output" : "D:/KULIAH/Semester 5/PPBLanjut/Projek/AplikasiMakanan/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so",
+			"toolchain" : "2813777401"
+		}
+	},
+	"toolchains" : 
+	{
+		"2813777401" : 
+		{
+			"cCompilerExecutable" : "C:/Users/ACER/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "C:/Users/ACER/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

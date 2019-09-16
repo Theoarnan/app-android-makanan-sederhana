@@ -1,0 +1,3 @@
+D:/KULIAH/Semester 5/PPBLanjut/Projek/AplikasiMakanan/app/.cxx/cmake/debug/x86/CMakeFiles/native-lib.dir
+D:/KULIAH/Semester 5/PPBLanjut/Projek/AplikasiMakanan/app/.cxx/cmake/debug/x86/CMakeFiles/edit_cache.dir
+D:/KULIAH/Semester 5/PPBLanjut/Projek/AplikasiMakanan/app/.cxx/cmake/debug/x86/CMakeFiles/rebuild_cache.dir
